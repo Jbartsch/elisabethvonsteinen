@@ -18,7 +18,7 @@ export default function Profile() {
               </div>
               <div className="sm:col-span-2">
                 <div className="space-y-4">
-                  <div className="mt-0 prose prose-indigo text-gray-700 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
+                  <div className="mt-0 prose prose-indigo text-gray-700 dark:text-white mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
                     <p>
                       Elisabeth von Steinen lebt in der Nähe von Zürich und in
                       La Chaux-de-Fonds. Lange Jahre verbrachte sie in den
