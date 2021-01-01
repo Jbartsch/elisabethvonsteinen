@@ -96,9 +96,13 @@ export default function Home() {
                     Wirklichkeit und schenkt ihr die Geschichte einer grossen
                     Freundschaft.
                   </p>
-                  <p>
-                    <a href="https://music.youtube.com/watch?v=CkuKsjO-mxw&list=RDAMVMCkuKsjO-mxw">
-                      Musik zum Buch: Ragtime (1918) von Igor Stravinsky
+                  <p className={"my-4"}>
+                    Musik zum Buch:{" "}
+                    <a
+                      className={"text-blue-500 dark:text-yellow-300"}
+                      href="https://music.youtube.com/watch?v=CkuKsjO-mxw&list=RDAMVMCkuKsjO-mxw"
+                    >
+                      Ragtime (1918) von Igor Stravinsky
                     </a>
                   </p>
                   <a
