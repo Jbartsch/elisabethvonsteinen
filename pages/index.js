@@ -10,6 +10,19 @@ export default function Home() {
   }
   return (
     <>
+      <Head>
+        <html lang="de-ch" />
+        <title>Elisabeth von Steinen</title>
+        <meta property="og:title" content="Elisabeth von Steinen" key="title" />
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta
+          name="Description"
+          content="Author: Elisabeth von Steinen,
+    Themen: Historische Romane, Preis: CHF 8.90,
+    Seitenzahl: 266"
+        />
+      </Head>
       {/* Change the classname to dark to enable darkmode */}
       <div className={"light"}>
         <div className="bg-white overflow-scroll dark:bg-gray-800 dark:text-white h-screen">
@@ -73,7 +86,8 @@ export default function Home() {
                       <span className="ml-2">
                         Bild Schloss (Pastellkreiden auf Karton): Josef Müller
                         (1886-1964) Mels <br />
-                        Foto Schloss: © Mike Kieme, Elikya Images
+                        Foto Schloss: © Mike Kieme, Elikya Images <br />
+                        Cover Design: © Alejandra Lauper, Varese Corridor GmbH
                       </span>
                     </figcaption>
                   </figure>
