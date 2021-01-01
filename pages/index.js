@@ -15,7 +15,11 @@ export default function Home() {
         <title>Elisabeth von Steinen</title>
         <meta property="og:title" content="Elisabeth von Steinen" key="title" />
         <meta charSet="utf-8" />
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta
+          name="viewport"
+          content="initial-scale=1.0, width=device-width"
+          key="viewport"
+        />
         <meta
           name="Description"
           content="Author: Elisabeth von Steinen,
