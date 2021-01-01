@@ -16,11 +16,6 @@ export default function Home() {
         <meta property="og:title" content="Elisabeth von Steinen" key="title" />
         <meta charSet="utf-8" />
         <meta
-          name="viewport"
-          content="initial-scale=1.0, width=device-width"
-          key="viewport"
-        />
-        <meta
           name="Description"
           content="Author: Elisabeth von Steinen,
     Themen: Historische Romane, Preis: CHF 8.90,
