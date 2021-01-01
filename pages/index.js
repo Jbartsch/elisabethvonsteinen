@@ -96,6 +96,11 @@ export default function Home() {
                     Wirklichkeit und schenkt ihr die Geschichte einer grossen
                     Freundschaft.
                   </p>
+                  <p>
+                    <a href="https://music.youtube.com/watch?v=CkuKsjO-mxw&list=RDAMVMCkuKsjO-mxw">
+                      Musik zum Buch: Ragtime (1918) von Igor Stravinsky
+                    </a>
+                  </p>
                   <a
                     className="my-2 inline-flex items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
                     href="https://www.orellfuessli.ch/shop/home/artikeldetails/ID148073652.html"

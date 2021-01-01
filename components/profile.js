@@ -13,7 +13,7 @@ export default function Profile() {
                   src="/profil.jpeg"
                   width="100"
                   height="100"
-                  alt
+                  alt="profilbild"
                 />
               </div>
               <div className="sm:col-span-2">
