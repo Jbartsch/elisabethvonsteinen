@@ -23,7 +23,7 @@ export default function Profile() {
                       Elisabeth von Steinen lebt in der Nähe von Zürich und in
                       La Chaux-de-Fonds. Lange Jahre verbrachte sie in den
                       Niederlanden, wo sie die flämische und niederländische
-                      Literatur zum Schreiben eigener Texte inspirierte.
+                      Literatur zum Schreiben eigener Texte inspirierten.
                       Elisabeth von Steinen begann, sich auf ihre Wurzeln zu
                       besinnen. Zunächst erforschte sie die Sagen aus ihrer
                       ersten Heimat. Daraus entspann sich ein dichter, fiktiver
