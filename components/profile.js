@@ -22,13 +22,11 @@ export default function Profile() {
                     <p>
                       Elisabeth von Steinen lebt in der Nähe von Zürich und in
                       La Chaux-de-Fonds. Lange Jahre verbrachte sie in den
-                      Niederlanden, wo sie die flämische und niederländische
-                      Literatur zum Schreiben eigener Texte inspirierten.
-                      Elisabeth von Steinen begann, sich auf ihre Wurzeln zu
-                      besinnen. Zunächst erforschte sie die Sagen aus ihrer
-                      ersten Heimat. Daraus entspann sich ein dichter, fiktiver
-                      Text. Der Roman Zerrissene Zeit ist die erste
-                      Veröffentlichung von Elisabeth von Steinen.
+                      Niederlanden, wo die flämische und niederländische
+                      Literatur sie zum Schreiben eigener Texte inspirierten.
+                      Elisabeth von Steinen begann, sich auf ihre Wurzeln zu besinnen. 
+                      Zunächst erforschte sie die Sagen aus ihrer ersten Heimat, dem Sarganserland. 
+                      Daraus entspann sich ein dichter, fiktiver Text. Der Roman Zerrissene Zeit ist die erste Veröffentlichung von Elisabeth von Steinen.
                     </p>
                   </div>
                   <ul className="flex space-x-5">
